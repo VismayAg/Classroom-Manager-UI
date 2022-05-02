@@ -1,0 +1,606 @@
+.classroomIcon {
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    background: #FCFBFF;
+    align-items: left;
+}
+.classRoom {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    left: 20px;
+    top: 20.5px;
+    border-radius: 50%;
+    background: linear-gradient(42.28deg, #FF0000 33.91%, #7329C6 98.31%);
+}
+.classRoom h1 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 50px;
+    top: 18px;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #000000;
+}
+.profile {
+    position: absolute;
+    left: 82%;
+    right: 13%;
+    top: 4.22%;
+    bottom: 94.44%;
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    background: #C5CEE0;
+}
+.profile h1 {
+    position: absolute;
+    width: 178px;
+    height: 0px;
+    left: 50px;
+    top: 18px;
+    display: inline-block;
+    font-family: 'Poppins',
+    sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    text-align: left;
+    color: #000000;
+}
+.notifications {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 90%;
+    right: 10%;
+    top: 4.44%;
+    bottom: 94.44%;
+}
+.help {
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 93%;
+    right: 7%;
+    top: 4.44%;
+    bottom: 94.44%;
+}
+button {
+      background-color: white;  
+    }
+.projects {
+    position: absolute;
+    width: 250px;
+    height: 58px;
+    left: 9px;
+    top: 78px;
+    border: none;
+}
+.projects img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+.projects h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 63px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #828282;
+}
+.classrooms {
+    position: absolute;
+    width: 250px;
+    height: 58px;
+    left: 9px;
+    top: 136px;
+    border: none;
+}
+
+.classrooms img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+
+.classrooms h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 63px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #828282;
+}
+.permissions {
+    position: absolute;
+    width: 250px;
+    height: 58px;
+    left: 9px;
+    top: 194px;
+    border: none;
+    background: #F1D8D8;
+}
+.openCorner {
+    position: absolute;
+    width: 7px;
+    height: 58px;
+    left: 4px;
+    top: 194px;
+    
+    background: #FE0D0D;
+}
+.permissions img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+
+.permissions h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 63px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #FE0D0D;
+}
+.popen {
+    position: absolute;
+    top: 107px;
+    left: 320px;
+}
+.permissionsOpen {
+    height: 55px;
+    border: none;
+}
+.permissionsOpen img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+    transform: rotate(45deg);
+}
+.permissionsOpen h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 45px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #FE0D0D;
+}
+.vline {
+    position: absolute;
+    width: 30px;
+    height: 0px;
+    left: 480px;
+    top: 135px;
+    
+    border: 1px solid #CFD3DA;
+    transform: rotate(90deg);
+}
+.amopen {
+    position: absolute;
+    top: 107px;
+    left: 510px;
+}
+
+.approvalOpen {
+    height: 55px;
+    border: none;
+}
+
+.approvalOpen img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+
+.approvalOpen h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 45px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #333333;;
+}
+.hline {
+    position: absolute;
+    width: 1600px;
+    height: 0px;
+    left: 320px;
+    top: 165px;
+    
+    border: 1px solid rgba(207, 211, 218, 0.5);
+}
+.onOpen {
+    position: absolute;
+    width: 160px;
+    height: 5px;
+    left: 325px;
+    top: 159px;
+    
+    background: #FE0D0D;
+    border-radius: 10px 10px 0px 0px;
+}
+.sync {
+    position: absolute;
+    top: 107px;
+    left: 81%;
+}
+.syncOpen {
+    height: 55px;
+    border: none;
+}
+
+.syncOpen img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+
+.sync h2 {
+    position: absolute;
+    width: 151.47px;
+    height: 20.36px;
+    left: 45px;
+    top: calc(50% - 20.36px/2 + 0.18px);
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 21px;
+    display: flex;
+    align-items: left;
+    letter-spacing: 0.2px;
+    display: inline-block;
+    white-space: nowrap;
+}
+.role {
+    position: absolute;
+    top: 198px;
+    left: 410px;
+    width: 190px;
+    height: 40px;
+    background: #B73A3A;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    letter-spacing: 0.2px;
+}
+.editRole {
+    position: absolute;
+    top: 198px;
+    left: 640px;
+}
+
+.edit {
+    
+    border: none;
+}
+
+.edit img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+.deleteRole {
+    position: absolute;
+    top: 197px;
+    left: 700px;
+}
+
+.delete {
+
+    border: none;
+}
+
+.delete img {
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    left: 3.12%;
+    right: 0.31%;
+    top: 9px;
+}
+.page1 {
+    position: absolute;
+    width: 1392px;
+    height: 360px;
+    left: 410px;
+    top: 262px;
+    background-color: white;
+}
+.head {
+    position: absolute;
+    width: 1392px;
+    height: 60px;
+    top: 0px;
+    left: 0px;
+    background: #F2F2F2;
+    box-shadow: 0px 5px 5px #BDBDBD;
+}
+.department {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 60px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #F2F2F2;
+}
+.accessLevel {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 410px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #F2F2F2;
+}
+.nmembers {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 710px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #F2F2F2;
+}
+.lastUpdated {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 1040px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #F2F2F2;
+}
+
+.departmentT {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 55px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    align-items: left;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #FFFFFF;
+}
+
+.accessLevelT {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 380px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+.accessButtonT {
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    background: rgba(39, 174, 96, 0.3);
+    border: 1px solid #27AE60;
+    box-sizing: border-box;
+    border-radius: 20px;
+    align-items: center;
+    color: #27AE60;
+}
+.accessButtonC {
+    position: absolute;
+    width: 160px;
+    height: 30px;
+    background: rgba(255, 8, 8, 0.3);
+    border: 1px solid #FF0808;
+    box-sizing: border-box;
+    border-radius: 20px;
+    align-items: center;
+    color: #FF0808;
+}
+.nmembersT {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 705px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #FFFFFF;
+}
+
+.lastUpdatedT {
+    position: absolute;
+    width: 249.81px;
+    height: 60px;
+    left: 1040px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.2px;
+    color: #000000;
+    background: #FFFFFF;
+}
+.viewButton {
+    position: absolute;
+    width: 40;
+    height: 60px;
+    left: 1240px;
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
+    border: none;
+}
+.viewButton img {
+    width: 30px;
+    height: 30px;
+}
+.teacher {
+    position: absolute;
+    width: 1392px;
+    height: 60px;
+    top: 62px;
+    left: 0px;
+    background: #FFFFFF;
+box-shadow: 0px 5px 5px #BDBDBD;
+}
+.externalFaculty {
+    position: absolute;
+    top: 124px;
+    width: 1392px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px #BDBDBD;
+}
+.labAssistants {
+    position: absolute;
+    top: 186px;
+    width: 1392px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px #BDBDBD;
+}
+.nonTeaching {
+    position: absolute;
+    top: 248px;
+    width: 1392px;
+    height: 60px;
+    background: #FFFFFF;
+    box-shadow: 0px 5px 5px #BDBDBD;
+}
+.supervisors {
+box-shadow: 0px 5px 5px #BDBDBD;
+position: absolute;
+top: 310px;
+width: 1392px;
+height: 60px;
+background: #FFFFFF;
+box-shadow: 0px 5px 5px #BDBDBD;
+}
